@@ -1,10 +1,5 @@
 # Annual-Sales-Analysis-Report-for-Varinda-Store-2022-in-Excel
 
-It seems you’ve uploaded images containing the project details and visuals for the Varinda Store analysis. Based on the problem statement and the insights provided, here’s a detailed description of your project:
-
----
-
-### **Project Title: Annual Sales Analysis Report for Varinda Store (2022)**
 
 ### **Objective:**
 To analyze Varinda Store's sales data from 2022 to identify key trends, understand customer demographics, and derive actionable insights to drive growth in sales and customer engagement in 2023.
